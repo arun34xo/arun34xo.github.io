@@ -1,6 +1,6 @@
 # Arun S. Thomas - Personal Portfolio
 
-Welcome to my personal portfolio repository! 🎮✨  
+Welcome to my personal portfolio repository!
 This repository showcases my journey, projects, and achievements as an aspiring **Software Engineer** with a strong foundation in programming, machine learning, and innovative problem-solving.
 
 ---
