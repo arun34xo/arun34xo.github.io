@@ -61,8 +61,3 @@ More projects to be planned and implemented.
 
 ---
 
-## 🚀 How to Use This Repository
-
-- Clone this repository to your local machine:
-  ```bash
-  git clone https://github.com/your-username/portfolio.git
