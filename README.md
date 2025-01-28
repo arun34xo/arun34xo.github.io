@@ -21,12 +21,13 @@ I'm **Arun S. Thomas**, a passionate **Computer Science Engineer** specializing 
 ## 🎮 Portfolio Highlights
 
 ### 🚀 Featured Projects
-1. **[Rights-Quest - Hyperlinked to Repo/Website]**  
+1. **Rights-Quest**  
    *An interactive educational game developed using Ren'Py and Python to promote awareness of child rights through immersive storytelling. This project highlights my expertise in creating compelling storylines and engaging user experiences.*
 
-2. **[RyLang - Hyperlinked to Repo/Website]**  
+2. **RyLang**  
    *A gamified AI language learning platform built with Python and React Native. Features include interactivity and progression tracking for an enhanced learning experience.*
 
+More projects to be planned and implemented. 
 ---
 
 ## 🌟 Professional Experience
@@ -56,6 +57,7 @@ I'm **Arun S. Thomas**, a passionate **Computer Science Engineer** specializing 
 - **LinkedIn:** [www.linkedin.com/in/arun34x](https://www.linkedin.com/in/arun34x)  
 - **Email:** [arun34xo@gmail.com](mailto:arun34xo@gmail.com)  
 - **Phone:** +1 727-621-4838  
+
 
 ---
 
