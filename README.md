@@ -7,7 +7,7 @@ This repository showcases my journey, projects, and achievements as an aspiring 
 
 ## 🖥️ About Me
 
-I am **Arun S. Thomas**, a passionate **Computer Science Engineer** specializing in software engineering and machine learning. With a proven ability to design, deploy, and manage engaging projects, I am eager to contribute to cutting-edge technology solutions.
+I'm **Arun S. Thomas**, a passionate **Computer Science Engineer** specializing in software engineering and machine learning. With a proven ability to design, deploy, and manage engaging projects, I am eager to contribute to cutting-edge technology solutions.
 
 ### 🔧 Skills:
 - **Programming Languages:** Java, Python, C++, HTML/CSS  
